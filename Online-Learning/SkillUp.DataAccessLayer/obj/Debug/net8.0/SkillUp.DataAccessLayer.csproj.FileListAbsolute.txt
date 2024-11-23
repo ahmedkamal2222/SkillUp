@@ -1,0 +1,44 @@
+D:\VS REPO C#\Final-Project-MVC\OnlineLearningMVC\OlineLearningMVC\SkillUP.DataAccessLayer\bin\Debug\net8.0\SkillUP.DataAccessLayer.deps.json
+D:\VS REPO C#\Final-Project-MVC\OnlineLearningMVC\OlineLearningMVC\SkillUP.DataAccessLayer\bin\Debug\net8.0\SkillUP.DataAccessLayer.runtimeconfig.json
+D:\VS REPO C#\Final-Project-MVC\OnlineLearningMVC\OlineLearningMVC\SkillUP.DataAccessLayer\bin\Debug\net8.0\SkillUP.DataAccessLayer.dll
+D:\VS REPO C#\Final-Project-MVC\OnlineLearningMVC\OlineLearningMVC\SkillUP.DataAccessLayer\bin\Debug\net8.0\SkillUP.DataAccessLayer.pdb
+D:\VS REPO C#\Final-Project-MVC\OnlineLearningMVC\OlineLearningMVC\SkillUP.DataAccessLayer\obj\Debug\net8.0\SkillUP.DataAccessLayer.csproj.AssemblyReference.cache
+D:\VS REPO C#\Final-Project-MVC\OnlineLearningMVC\OlineLearningMVC\SkillUP.DataAccessLayer\obj\Debug\net8.0\SkillUP.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS REPO C#\Final-Project-MVC\OnlineLearningMVC\OlineLearningMVC\SkillUP.DataAccessLayer\obj\Debug\net8.0\SkillUP.DataAccessLayer.AssemblyInfoInputs.cache
+D:\VS REPO C#\Final-Project-MVC\OnlineLearningMVC\OlineLearningMVC\SkillUP.DataAccessLayer\obj\Debug\net8.0\SkillUP.DataAccessLayer.AssemblyInfo.cs
+D:\VS REPO C#\Final-Project-MVC\OnlineLearningMVC\OlineLearningMVC\SkillUP.DataAccessLayer\obj\Debug\net8.0\SkillUP.DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\VS REPO C#\Final-Project-MVC\OnlineLearningMVC\OlineLearningMVC\SkillUP.DataAccessLayer\obj\Debug\net8.0\SkillUP.DataAccessLayer.sourcelink.json
+D:\VS REPO C#\Final-Project-MVC\OnlineLearningMVC\OlineLearningMVC\SkillUP.DataAccessLayer\obj\Debug\net8.0\SkillUP.DataAccessLayer.dll
+D:\VS REPO C#\Final-Project-MVC\OnlineLearningMVC\OlineLearningMVC\SkillUP.DataAccessLayer\obj\Debug\net8.0\refint\SkillUP.DataAccessLayer.dll
+D:\VS REPO C#\Final-Project-MVC\OnlineLearningMVC\OlineLearningMVC\SkillUP.DataAccessLayer\obj\Debug\net8.0\SkillUP.DataAccessLayer.pdb
+D:\VS REPO C#\Final-Project-MVC\OnlineLearningMVC\OlineLearningMVC\SkillUP.DataAccessLayer\obj\Debug\net8.0\SkillUP.DataAccessLayer.genruntimeconfig.cache
+D:\VS REPO C#\Final-Project-MVC\OnlineLearningMVC\OlineLearningMVC\SkillUP.DataAccessLayer\obj\Debug\net8.0\ref\SkillUP.DataAccessLayer.dll
+D:\VS REPO C#\Final-Project-MVC\Online-Learning-Platform-with-ASP.NET-Core---DEPI\Online-Learning\SkillUP.DataAccessLayer\bin\Debug\net8.0\SkillUP.DataAccessLayer.deps.json
+D:\VS REPO C#\Final-Project-MVC\Online-Learning-Platform-with-ASP.NET-Core---DEPI\Online-Learning\SkillUP.DataAccessLayer\bin\Debug\net8.0\SkillUP.DataAccessLayer.runtimeconfig.json
+D:\VS REPO C#\Final-Project-MVC\Online-Learning-Platform-with-ASP.NET-Core---DEPI\Online-Learning\SkillUP.DataAccessLayer\bin\Debug\net8.0\SkillUP.DataAccessLayer.dll
+D:\VS REPO C#\Final-Project-MVC\Online-Learning-Platform-with-ASP.NET-Core---DEPI\Online-Learning\SkillUP.DataAccessLayer\bin\Debug\net8.0\SkillUP.DataAccessLayer.pdb
+D:\VS REPO C#\Final-Project-MVC\Online-Learning-Platform-with-ASP.NET-Core---DEPI\Online-Learning\SkillUP.DataAccessLayer\obj\Debug\net8.0\SkillUP.DataAccessLayer.csproj.AssemblyReference.cache
+D:\VS REPO C#\Final-Project-MVC\Online-Learning-Platform-with-ASP.NET-Core---DEPI\Online-Learning\SkillUP.DataAccessLayer\obj\Debug\net8.0\SkillUP.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS REPO C#\Final-Project-MVC\Online-Learning-Platform-with-ASP.NET-Core---DEPI\Online-Learning\SkillUP.DataAccessLayer\obj\Debug\net8.0\SkillUP.DataAccessLayer.AssemblyInfoInputs.cache
+D:\VS REPO C#\Final-Project-MVC\Online-Learning-Platform-with-ASP.NET-Core---DEPI\Online-Learning\SkillUP.DataAccessLayer\obj\Debug\net8.0\SkillUP.DataAccessLayer.AssemblyInfo.cs
+D:\VS REPO C#\Final-Project-MVC\Online-Learning-Platform-with-ASP.NET-Core---DEPI\Online-Learning\SkillUP.DataAccessLayer\obj\Debug\net8.0\SkillUP.DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\VS REPO C#\Final-Project-MVC\Online-Learning-Platform-with-ASP.NET-Core---DEPI\Online-Learning\SkillUP.DataAccessLayer\obj\Debug\net8.0\SkillUP.DataAccessLayer.sourcelink.json
+D:\VS REPO C#\Final-Project-MVC\Online-Learning-Platform-with-ASP.NET-Core---DEPI\Online-Learning\SkillUP.DataAccessLayer\obj\Debug\net8.0\SkillUP.DataAccessLayer.dll
+D:\VS REPO C#\Final-Project-MVC\Online-Learning-Platform-with-ASP.NET-Core---DEPI\Online-Learning\SkillUP.DataAccessLayer\obj\Debug\net8.0\refint\SkillUP.DataAccessLayer.dll
+D:\VS REPO C#\Final-Project-MVC\Online-Learning-Platform-with-ASP.NET-Core---DEPI\Online-Learning\SkillUP.DataAccessLayer\obj\Debug\net8.0\SkillUP.DataAccessLayer.pdb
+D:\VS REPO C#\Final-Project-MVC\Online-Learning-Platform-with-ASP.NET-Core---DEPI\Online-Learning\SkillUP.DataAccessLayer\obj\Debug\net8.0\SkillUP.DataAccessLayer.genruntimeconfig.cache
+D:\VS REPO C#\Final-Project-MVC\Online-Learning-Platform-with-ASP.NET-Core---DEPI\Online-Learning\SkillUP.DataAccessLayer\obj\Debug\net8.0\ref\SkillUP.DataAccessLayer.dll
+D:\All Projects\Online-Learning-Platform-with-ASP.NET-Core---DEPI-main\Online-Learning\SkillUP.DataAccessLayer\bin\Debug\net8.0\SkillUP.DataAccessLayer.deps.json
+D:\All Projects\Online-Learning-Platform-with-ASP.NET-Core---DEPI-main\Online-Learning\SkillUP.DataAccessLayer\bin\Debug\net8.0\SkillUP.DataAccessLayer.runtimeconfig.json
+D:\All Projects\Online-Learning-Platform-with-ASP.NET-Core---DEPI-main\Online-Learning\SkillUP.DataAccessLayer\bin\Debug\net8.0\SkillUP.DataAccessLayer.dll
+D:\All Projects\Online-Learning-Platform-with-ASP.NET-Core---DEPI-main\Online-Learning\SkillUP.DataAccessLayer\bin\Debug\net8.0\SkillUP.DataAccessLayer.pdb
+D:\All Projects\Online-Learning-Platform-with-ASP.NET-Core---DEPI-main\Online-Learning\SkillUP.DataAccessLayer\obj\Debug\net8.0\SkillUP.DataAccessLayer.csproj.AssemblyReference.cache
+D:\All Projects\Online-Learning-Platform-with-ASP.NET-Core---DEPI-main\Online-Learning\SkillUP.DataAccessLayer\obj\Debug\net8.0\SkillUP.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\All Projects\Online-Learning-Platform-with-ASP.NET-Core---DEPI-main\Online-Learning\SkillUP.DataAccessLayer\obj\Debug\net8.0\SkillUP.DataAccessLayer.AssemblyInfoInputs.cache
+D:\All Projects\Online-Learning-Platform-with-ASP.NET-Core---DEPI-main\Online-Learning\SkillUP.DataAccessLayer\obj\Debug\net8.0\SkillUP.DataAccessLayer.AssemblyInfo.cs
+D:\All Projects\Online-Learning-Platform-with-ASP.NET-Core---DEPI-main\Online-Learning\SkillUP.DataAccessLayer\obj\Debug\net8.0\SkillUP.DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\All Projects\Online-Learning-Platform-with-ASP.NET-Core---DEPI-main\Online-Learning\SkillUP.DataAccessLayer\obj\Debug\net8.0\SkillUP.DataAccessLayer.dll
+D:\All Projects\Online-Learning-Platform-with-ASP.NET-Core---DEPI-main\Online-Learning\SkillUP.DataAccessLayer\obj\Debug\net8.0\refint\SkillUP.DataAccessLayer.dll
+D:\All Projects\Online-Learning-Platform-with-ASP.NET-Core---DEPI-main\Online-Learning\SkillUP.DataAccessLayer\obj\Debug\net8.0\SkillUP.DataAccessLayer.pdb
+D:\All Projects\Online-Learning-Platform-with-ASP.NET-Core---DEPI-main\Online-Learning\SkillUP.DataAccessLayer\obj\Debug\net8.0\SkillUP.DataAccessLayer.genruntimeconfig.cache
+D:\All Projects\Online-Learning-Platform-with-ASP.NET-Core---DEPI-main\Online-Learning\SkillUP.DataAccessLayer\obj\Debug\net8.0\ref\SkillUP.DataAccessLayer.dll
